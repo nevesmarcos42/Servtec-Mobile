@@ -13,7 +13,7 @@ A aplicação consiste em cotação em tempo real, onde os dados são consumidos
 
 ## Back end
 - React-native
-- 
+  
 ## Front end
 - React Native
 - Expo

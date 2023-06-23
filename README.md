@@ -25,5 +25,5 @@ Pré-requisitos: npm
 
 Marcos Aurélio Neves
 
-[https://www.linkedin.com/in/wmazoni](https://github.com/nevesmarcos42)https://github.com/nevesmarcos42
+(https://github.com/nevesmarcos42)
 

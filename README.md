@@ -16,7 +16,7 @@ A aplicação consiste em cotação em tempo real, onde os dados são consumidos
 - React Native
 - Expo
 ## Implantação em produção
-- Back end: 000webservice
+- Back end: 000webhost
 - Banco de dados: Mysql
 
 # Como executar o projeto

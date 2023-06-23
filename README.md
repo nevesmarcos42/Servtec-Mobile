@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-[https://wmazoni-sds1.netlify.app](https://servtecconversor.000webhostapp.com/)
+(https://servtecconversor.000webhostapp.com/)
 
 Big Servtec-Mobile é uma aplicação full stack web e mobile construída para o auxilio na cotção e conversão de moedas estrageiras.
 

@@ -10,19 +10,13 @@ A aplicação consiste em cotação em tempo real, onde os dados são consumidos
 
 
 # Tecnologias utilizadas
+
 ## Back end
 - React-native
+- 
 ## Front end
 - React Native
 - Expo
-## Implantação em produção
-- Back end: 000webhost
-- Banco de dados: Mysql
-
-# Como executar o projeto
-
-## Back end
-Pré-requisitos: PHP 8.2
 
 ## Front end web
 Pré-requisitos: npm 

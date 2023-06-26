@@ -15,6 +15,9 @@ A aplicação consiste em cotação em tempo real, onde os dados são consumidos
 ## Front end
 - XML
 
+## Implantação em produção
+- API: Awesome Cotação
+
 # Autor
 
 Marcos Aurélio Neves
